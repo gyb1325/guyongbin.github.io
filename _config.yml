@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yongbin Gu"
-  avatar           : "profile.png"
+  avatar           : "personal_image.png"
   bio              : "I have a broad interest in the computer architecture, deep learning accelerator, and other hardware architecture developments"
   location         : "Corvallis, OR"
   employer         : "Oregon State University"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/gyb1325"
+  github           : "gyb1325"
   google_plus      :
   keybase          :
   instagram        :
