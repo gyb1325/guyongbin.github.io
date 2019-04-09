@@ -33,3 +33,18 @@ Research Interests
 * GPU Architecture
 * AI-assisted Computer Architecture Design
 * Machine Learning
+  
+Courses
+======
+At Oregon State University
+* ECE572 Computer Architecture
+* ECE570 High Performance Architecture
+* ECE599 Interconnect Network
+* ECE560 Stochastic Signal and Systems 
+* ECE550 Linear System Theory
+* CS550 Introduction of Computer Graphics
+* CS519 Distributed System
+* CS553 Scientific Visualization (In Progress)
+* CS5775 Parallel Programming (In Progress)
+* Machine Learning (Online)
+* Reinforcement Learning (Online) 
