@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yongbin Gu"
   avatar           : "personal_image.png"
-  bio              : "I have a broad interest in the computer architecture, deep learning accelerator, and other hardware architecture developments"
+  bio              : "I have a broad interest in the computer architecture, deep learning accelerator, and other hardware architecture developments."
   location         : "Corvallis, OR"
   employer         : "Oregon State University"
   pubmed           : 
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
