@@ -48,3 +48,7 @@ At Oregon State University
 * CS5775 Parallel Programming (In Progress)
 * Machine Learning (Online)
 * Reinforcement Learning (Online) 
+
+Miscellaneous
+======
+Recently, I am very interested in computer algorithm. Some [leetcode](https://leetcode.com/) solutions can be found on my [github](https://github.com/gyb1325/leetcode).   
