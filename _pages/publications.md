@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications123/
+permalink: /publications/
 # permalink: /
 author_profile: true
 ---
