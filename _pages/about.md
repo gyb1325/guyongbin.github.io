@@ -45,8 +45,8 @@ At Oregon State University
 * ECE550 Linear System Theory
 * CS550 Introduction of Computer Graphics
 * CS519 Distributed System
-* CS553 Scientific Visualization (In Progress)
-* CS5775 Parallel Programming (In Progress)
+* CS553 Scientific Visualization ([Projects](https://github.com/gyb1325/CS553_Scientific_Visuallization)) (In Progress) 
+* CS5775 Parallel Programming ([Projects](https://github.com/gyb1325/CS575_Parallel_Programming)) (In Progress) 
 * Machine Learning (Online)
 * Reinforcement Learning (Online) 
 
