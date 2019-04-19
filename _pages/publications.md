@@ -64,3 +64,7 @@ __Gu, Yongbin__, Yongliang Yang, Jing Zhang, ShengXiang Ge, Zhanghong Tang, and 
   pages={635--645},  
   year={2014}  
 }   -->
+
+Patent
+======
+*	Xianbo Qiu, Xiangyang Lei, Yongliang Yang, __Yongbin Gu__, Shuo Yang, Wei Wei, Xuan Zhou, Pengfei Gao “[The automatic quantitative Fluorescence measurement device for Immunoassay Microfluidic Chips](http://cprs.patentstar.com.cn/Search/Detail?ANE=9CID9EGB6BEA5BAA5AEA9GDA9FHE9FCD6DAA9DDG9DBD8IAA)” China Patent No. 201410153980.9, 02 Dec. 2015
