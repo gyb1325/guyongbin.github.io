@@ -16,7 +16,7 @@ I am always eager to broaden my horizon through meeting and working with new peo
 
 News
 ======
-* [2019-05] I will join Alibaba-DAMO Academy as a research intern for my summer internship! 
+* [2019-05] I will join Alibaba-DAMO Academy as a research intern for my summer internship. See you in SunnyVale, CA! 
 * [2019-04] My Paper "Dynamically Linked MSHRs for Adaptive Miss Handling in GPUs" is accepted in the ACM International Conference on Supercomputing (ICS) 2019!
 * [2019-04] We are organizing the 2nd International [Workshop on AI-assisted Design for Architecture (AIDArc)](https://eecs.oregonstate.edu/aidarc/), co-located with ISCA 2019 in Phoenix, AZ. Please Submit your work!
 * [2018-08] My Paper "[CART: Cache Access Reordering Tree for Efficient Cache and Memory Accesses in GPUs](https://ieeexplore.ieee.org/abstract/document/8615696)" is accepted in the IEEE International Conference on Computer Design (ICCD) 2018!
